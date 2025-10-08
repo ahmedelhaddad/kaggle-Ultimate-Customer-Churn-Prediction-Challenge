@@ -1,11 +1,9 @@
-🏆 **Kaggle Competition:** 
-[Ultimate Customer Churn Prediction Challenge](https://www.kaggle.com/competitions/ultimate-customer-churn-prediction-challenge)
 📊 **Colab Notebook:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WSgfoS6q8sAJ79cdWoaA9WCY17BWH40U?usp=sharing)
 
 # 🧠 Ultimate Customer Churn Prediction Challenge
 
-This repository contains my Google Colab notebook submission for the **[Kaggle Ultimate Customer Churn Prediction Challenge](https://www.kaggle.com/competitions/ultimate-customer-churn-prediction-challenge/overview)**.  
+This repository contains my Google Colab notebook submission for the 🏆**[Kaggle Ultimate Customer Churn Prediction Challenge](https://www.kaggle.com/competitions/ultimate-customer-churn-prediction-challenge/overview)**.  
 The project’s goal is to build a reliable model to predict **customer churn** based on demographics, usage metrics, feedback, and service data.
 
 ---
