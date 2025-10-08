@@ -1,7 +1,5 @@
 🏆 **Kaggle Competition:** [Ultimate Customer Churn Prediction Challenge](https://www.kaggle.com/competitions/ultimate-customer-churn-prediction-challenge)
-📊 **Colab Notebook:** [View on Google Colab](https://colab.research.google.com/drive/1WSgfoS6q8sAJ79cdWoaA9WCY17BWH40U?usp=sharing)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WSgfoS6q8sAJ79cdWoaA9WCY17BWH40U?usp=sharing)
+📊 **Colab Notebook:**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WSgfoS6q8sAJ79cdWoaA9WCY17BWH40U?usp=sharing)
 
 # 🧠 Ultimate Customer Churn Prediction Challenge
 
